@@ -1,0 +1,20 @@
+{
+  "currentEnv": "production",
+  "environments": {
+    "development": {
+      "path": ".env.development",
+      "lastUsed": "2025-07-26T07:34:10.968Z"
+    },
+    "production": {
+      "path": ".env.production",
+      "lastUsed": "2025-07-26T07:34:23.982Z"
+    }
+  },
+  "keys": [
+    "SHOPIFY_API_KEY",
+    "SHOPIFY_API_SECRET",
+    "SHOPIFY_APP_URL",
+    "DEBUG",
+    "ANALYTICS_ID"
+  ]
+}
